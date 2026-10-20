@@ -1,0 +1,32 @@
+
+# Groq LLM integration
+langchain-groq
+
+# LangChain framework and LCEL Runnable components
+langchain
+langchain-core
+langchain-classic
+
+# LangGraph for agent orchestration (optional)
+langgraph
+
+# Tavily web search
+langchain-tavily
+tavily-python
+
+# Web scraping using Beautiful Soup
+beautifulsoup4
+requests
+lxml
+
+# Environment variables
+python-dotenv
+
+# Streamlit UI (if building a web interface)
+streamlit
+
+# Data validation and structured outputs
+pydantic
+
+# HTTP utilities
+httpx
